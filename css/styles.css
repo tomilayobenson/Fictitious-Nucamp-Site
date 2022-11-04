@@ -47,3 +47,25 @@ a, a:hover {
 .carousel {
     border: solid #5637DD;
 }
+
+
+/*styling of class homework*/
+.other-jumbotron {
+    background-image: linear-gradient(to right,#023047,#219ebc,#8ecae6);
+}
+.header-h2 {
+    color:  #89f2e5;
+}
+.carousel-2 {
+    border: solid #815f2b;
+}
+.site-footer-2 {
+    background-image: linear-gradient(#219ebc, white);
+    padding: 20px 0;
+}
+.btn-main-green {
+    background-color:#023047;
+}
+.btn-main-orange {
+    background-color:#fb8500;
+}
